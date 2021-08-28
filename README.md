@@ -15,4 +15,6 @@ zawory 8 LAD - zawory bez czujników wykonane w języku [LAD]
 
 
 KLASA 3
+
+
 przejazd kolejowy - działanie szlabanów i sygnalizacji [FBD]
