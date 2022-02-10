@@ -20,4 +20,4 @@ KLASA 3
 
 
 
-[1] przejazd kolejowy - działanie szlabanów i sygnalizacji [FBD]
+[1] hala lampy [FBD]
